@@ -1,5 +1,5 @@
 {
-    "description": "A personal website for codeing",
+    "description": "A personal website for MRSX LLC",
     "owner": {
         "username": "MrAli88708",
         "email": "mralizai2013@gmail.com"
@@ -11,12 +11,9 @@
             "185.199.110.153",
             "185.199.111.153"
         ],
-        "MX": [
-            "mx1.improvmx.com",
-            "mx2.improvmx.com"
-        ],
-        "TXT": [
-            "v=spf1 include:spf.improvmx.com ~all"
+        "NS": [
+            "ben.ns.cloudflare.com",
+            "stephane.ns.cloudflare.com"
         ]
     }
 }
