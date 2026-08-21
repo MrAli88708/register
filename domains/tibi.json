@@ -1,11 +1,8 @@
 {
   "owner": {
-    "username": "netistul",
-    "email": "tyiby@yahoo.com"
+    "username": "tibiv22"
   },
   "records": {
-    "A": [
-      "130.61.40.137"
-    ]
+    "NS": ["jaime.ns.cloudflare.com", "wanda.ns.cloudflare.com"]
   }
 }
